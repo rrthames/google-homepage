@@ -1,0 +1,40 @@
+body{
+  font-family: sans-serif;
+  font-size: 14px;
+  color: grey;
+}
+#header {
+    text-align: right;
+}
+
+#main {
+    text-align: center;
+  margin-top: 150px;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding; 0;
+}
+
+li{
+  display: inline;
+  margin:0 10px;
+}
+
+li.right{
+  float: right;
+}
+
+#footer {
+    position:absolute;
+    bottom:0px;
+    width: 100%;
+    margin: 0;
+    background-color: #fff;
+    height: 20px;
+}
+
+
+
